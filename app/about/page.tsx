@@ -111,7 +111,7 @@ export default function AboutPage() {
               className="relative"
             >
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/placeholder.svg?height=400&width=600" alt="Our Story" fill className="object-cover" />
+                <Image src="/found.jpg?height=400&width=600" alt="Our Story" fill className="object-cover" />
               </div>
             </motion.div>
           </div>

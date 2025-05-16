@@ -106,7 +106,7 @@ export default function Home() {
             >
               <div className="relative h-[400px] lg:h-[500px] rounded-lg overflow-hidden">
                 <Image
-                  src="/cover_img.png?height=500&width=600"
+                  src="/digicom.jpg?height=500&width=600"
                   alt="Digital Services"
                   fill
                   className="object-cover"
@@ -186,7 +186,7 @@ export default function Home() {
             >
               <div className="relative h-[400px] rounded-lg overflow-hidden">
                 <Image
-                  src="/about.png?height=400&width=600"
+                  src="/about2.jpg?height=400&width=600"
                   alt="About Upfrontics"
                   fill
                   className="object-cover"
